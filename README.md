@@ -5,7 +5,7 @@ Data and scripts for the manuscript entitled "Invasive strawberry guava disrupts
 Authors:
 
 Author Names: 
-Matthew A. McCary(1), Zo S. E. Fenosoa(2), Julieanne Montaquila(1), Eric F. Wuesthoff(1), Emile Rajeriarison(2), Ella Matsuda(1), Amy E. Dunham(1)*
+Matthew A. McCary(1), Zo S. E. Fenosoa(2), Julieanne Montaquila(1), Eric F. Wuesthoff(1), Emile Rajeriarison(3), Ella Matsuda(1), Amy E. Dunham(1)*
 
 Affiliations:
 
