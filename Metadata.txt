@@ -1,0 +1,89 @@
+Metadata File Structure
+
+Repository description:
+R scripts and data for the Strawberry Guava Project, which analyzes how guava invasion affects canopy structure, seedling and plant communities, invertebrates (pitfall, malaise, sticky traps), and soil properties in Ranomafana National Park, Madagascar.
+
+File list (grouped by analysis area):
+
+Plants
+
+guava_canopy.csv
+
+guava_seedlings.csv
+
+guava_tree_seedlings.csv
+
+native_ren.csv
+
+plant-analysis-final.R
+
+plant-analysis-GLMM-final.R
+
+Invertebrates
+
+guava_arthropod_pitfall.csv
+
+guava_arthropod_malaise.csv
+
+guava_arthropod_sticky.csv
+
+pitfall_ren.csv
+
+malaise_ren.csv
+
+sticky_ren.csv
+
+arthropod-analysis-final.R
+
+arthropod-analysis-GLMM-final.R
+
+Soils
+
+guava_soil.csv
+
+soil-analysis-final.R
+
+soil-analysis-GLMM-final.R
+
+
+File descriptions (grouped by analysis area):
+
+Plants
+
+guava_canopy.csv: Vegetation canopy openness and Robel pole data used to assess structural changes in the plant community
+
+guava_seedlings.csv: Data on herbaceous and woody seedlings across invaded and uninvaded plots
+
+guava_tree_seedlings.csv: Data on tree seedling composition and density
+
+native_ren.csv: Plant community data organized to run PERMANOVA and ordination methods
+
+plant-analysis-final.R: R script for LMM analyses of vegetation (canopy, seedlings, tree seedlings)
+
+plant-analysis-GLMM-final.R: R script for GLMM analyses of vegetation data with alternative model specifications
+
+Invertebrates
+
+arthropod-analysis-final.R: R script for LMM-based analysis of invertebrate abundance, richness, and diversity from pitfall, malaise, and sticky trap datasets.
+
+arthropod-analysis-GLMM-final.R: R script for GLMM analyses that complement the LMM results, with model diagnostics for overdispersion and residuals.
+
+guava_arthropod_malaise.csv: Raw data of invertebrates collected from malaise traps across paired invaded/uninvaded sites.
+
+guava_arthropod_pitfall.csv: Raw data of invertebrate families collected from pitfall traps.
+
+guava_arthropod_sticky.csv: Raw data of invertebrate families collected from sticky traps.
+
+malaise_ren.csv: Invertebrate community data organized to run PERMANOVA and ordination methods for Malaise traps
+
+pitfall_ren.csv: Invertebrate community data organized to run PERMANOVA and ordination methods for pitfall traps
+
+sticky_ren.csv: Invertebrate community data organized to run PERMANOVA and ordination methods for sticky traps
+
+Soil
+
+soil-analysis-final.R: R script for LMM analyses of soil nutrients
+
+soil-analysis-GLMM-final.R: R script for GLMM analyses of soil nutrients with model contrasts and R² estimates
+
+guava_soil.csv: Soil chemistry measurements including total C, N, P, NH₄, NO₃, organic matter, and C:N ratio
