@@ -9,10 +9,10 @@ Matthew A. McCary(1), Zo S. E. Fenosoa(2), Julieanne Montaquila(1), Eric F. Wues
 
 Affiliations:
 
-1 Department of BioSciences, Rice University, Houston, TX, USA
+(1) Department of BioSciences, Rice University, Houston, TX, USA
 
-2 Mention Zoologie et Biodiversité Animale, Université d'Antananarivo, Antananarivo, Madagascar
+(2) Mention Zoologie et Biodiversité Animale, Université d'Antananarivo, Antananarivo, Madagascar
 
-3 Centre ValBio, Ranomafana National Park, Ranomafana, Madagascar
+(3) Centre ValBio, Ranomafana National Park, Ranomafana, Madagascar
 
 
