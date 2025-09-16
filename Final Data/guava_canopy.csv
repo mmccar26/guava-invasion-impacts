@@ -1,0 +1,33 @@
+Site,Pair,Replicate,Treatment,Location,Date established,Canopy_openness,Robel_pole,RP_avg
+Talatakely,1,1,G,B60,6/11/2024,85,15,15
+Talatakely,2,1,G,Between FF40 and F200,6/12/2024,91,9,9
+Talatakely,3,1,G,A1000,6/12/2024,86,4,6
+Talatakely,4,1,G,Under BelleView/ Bernard Campsite,6/12/2024,88,8,7
+Vohiparara,5,1,G,PM1250,6/13/2024,85,4,6
+Vohiparara,6,1,G,PM 950,6/13/2024,88,10,8.5
+Vohiparara,7,1,G,across river from NG7,6/13/2024,76,5,5
+Vohiparara,8,1,G,PM 400,6/13/2024,88,10,8
+Talatakely,1,1,NG,CC150 (MNP B50),6/11/2024,NA,2,2
+Talatakely,2,1,NG,FF150,6/12/2024,82,2,2
+Talatakely,3,1,NG,A50,6/12/2024,87,0,1
+Vohiparara,4,1,NG,BM (Bernard camp) 50m,6/12/2024,84,4,2.5
+Vohiparara,5,1,NG,100m North of G5,6/13/2024,89,3,3.5
+Vohiparara,6,1,NG,PM 2150,6/13/2024,84,1,0.5
+Vohiparara,7,1,NG,PM000,6/13/2024,88,1,1.5
+Vohiparara,8,1,NG,100m from G8,6/13/2024,89,4,2.5
+Talatakely,1,2,G,B60,6/11/2024,NA,NA,NA
+Talatakely,2,2,G,Between FF40 and F200,6/12/2024,NA,NA,NA
+Talatakely,3,2,G,A1000,6/12/2024,NA,8,NA
+Talatakely,4,2,G,Under BelleView/ Bernard Campsite,6/12/2024,NA,6,NA
+Vohiparara,5,2,G,PM1250,6/13/2024,NA,8,NA
+Vohiparara,6,2,G,PM 950,6/13/2024,NA,7,NA
+Vohiparara,7,2,G,across river from NG7,6/13/2024,NA,5,NA
+Vohiparara,8,2,G,PM 400,6/13/2024,NA,6,NA
+Talatakely,1,2,NG,CC150 (MNP B50),6/11/2024,NA,2,NA
+Talatakely,2,2,NG,FF150,6/12/2024,NA,NA,NA
+Talatakely,3,2,NG,A50,6/12/2024,NA,2,NA
+Vohiparara,4,2,NG,BM (Bernard camp) 50m,6/12/2024,NA,1,NA
+Vohiparara,5,2,NG,100m North of G5,6/13/2024,NA,4,NA
+Vohiparara,6,2,NG,PM 2150,6/13/2024,NA,0,NA
+Vohiparara,7,2,NG,PM000,6/13/2024,NA,2,NA
+Vohiparara,8,2,NG,100m from G8,6/13/2024,NA,1,NA
